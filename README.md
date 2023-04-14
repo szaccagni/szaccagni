@@ -8,7 +8,7 @@
 <a href='https://www.codewars.com/users/sarza'>CodeWars</a>
 <br>
 <br>
-<p>I'm a full stack developer currently based in New York, United States.</p>
+<p>I'm a full stack developer based in New York, United States.</p>
 <p>Currently, I'm learning TypeScript and working on a Flask project.</p> 
 <br>
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szaccagni&layout=compact&hide_title=1&card_width=300&exclude_repo=habit_tracker" alt="Top language used in my repos" />
