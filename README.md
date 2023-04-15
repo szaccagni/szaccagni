@@ -20,5 +20,5 @@
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szaccagni&layout=compact&hide_title=1&card_width=300&exclude_repo=habit_tracker" alt="Top language used in my repos" />
 <br>
 <br>
-<img width="" src="https://github-readme-streak-stats.herokuapp.com?user=szaccagni&background=FFFEFE&border=E4E2E2&stroke=FF5937&fire=FF5937&ring=FF5937&currStreakNum=FF5937&sideNums=FF5937&currStreakLabel=FF5937&sideLabels=FF5937&dates=FF5937&)](https://git.io/streak-stats" alt="github streak stats" />
+<img width="" src="https://github-readme-streak-stats.herokuapp.com?user=szaccagni&background=FFFEFE&border=E4E2E2&stroke=FF5937&fire=FF5937&ring=FF5937&currStreakNum=FF5937&sideNums=FF5937&currStreakLabel=FF5937&sideLabels=FF5937&dates=FF5937&)](https://git.io/streak-stats" alt="github streak stats"/>
 </div>
