@@ -9,15 +9,14 @@
 &nbsp;
 &nbsp;
 <a href='https://www.codewars.com/users/sarza'>CodeWars</a> </p>
-<h3>Skills</h3>
 <br>
+<h3>Skills</h3>
 <img align="center" src="https://skillicons.dev/icons?i=js,html,css,react,express,mongodb,nodejs">
 <br><br>
 <img align="center" src="https://skillicons.dev/icons?i=py,django,flask,git,github,heroku,postgres">
 <br><br>
 <br>
 <h3>GitHub Stats</h3>
-<br>
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szaccagni&layout=compact&hide_title=1&card_width=300&exclude_repo=habit_tracker" alt="Top language used in my repos" />
 <br>
 <br>
