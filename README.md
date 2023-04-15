@@ -18,5 +18,5 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,django,flask,git,github,heroku,postgres">
 <br><br>
 <br>
-<img width="" src="https://github-readme-streak-stats.herokuapp.com?user=szaccagni&background=FFE97300&border=AFAFAF&stroke=FF5937&fire=FF5937&ring=FF5937&currStreakNum=FF5937&sideNums=FF5937&currStreakLabel=FF5937&sideLabels=FF5937&dates=FF5937&)](https://git.io/streak-stats" alt="github streak stats" />
+<img width="" src="https://github-readme-streak-stats.herokuapp.com?user=szaccagni&background=FFE97300&border=E4E2E2&stroke=FF5937&fire=FF5937&ring=FF5937&currStreakNum=FF5937&sideNums=FF5937&currStreakLabel=FF5937&sideLabels=FF5937&dates=FF5937&)](https://git.io/streak-stats" alt="github streak stats" />
 </div>
