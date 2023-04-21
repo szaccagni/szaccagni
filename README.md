@@ -17,7 +17,7 @@
 <br><br>
 <br>
 <h3>GitHub Stats</h3>
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szaccagni&layout=compact&hide_title=1&card_width=300&exclude_repo=habit_tracker,stardew_craft_calc" alt="Top language used in my repos" />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szaccagni&layout=compact&hide_title=1&card_width=300&exclude_repo=habit_tracker,stardew_craft_calc,stardew_scraper" alt="Top language used in my repos" />
 <br>
 <br>
 <img width="" src="https://github-readme-streak-stats.herokuapp.com?user=szaccagni&background=FFFEFE&border=E4E2E2&stroke=FF5937&fire=FF5937&ring=FF5937&currStreakNum=FF5937&sideNums=FF5937&currStreakLabel=FF5937&sideLabels=FF5937&dates=FF5937&" alt="github streak stats"/>
