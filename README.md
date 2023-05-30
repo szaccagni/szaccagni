@@ -4,7 +4,7 @@
 <div align='center'>
 <h3> About Me </h3>
 <p>I'm a full stack developer based in New York, United States.</p>
-<p>Currently, I'm learning TypeScript and working on a Flask project.</p> 
+<p>Currently, I'm learning Next.js</p> 
 <p><a href='https://www.linkedin.com/in/szaccagni/'>LinkedIn</a>
 &nbsp;
 &nbsp;
