@@ -4,16 +4,15 @@
 <div align='center'>
 <h3> About Me </h3>
 <p>I'm a full stack developer based in New York, United States.</p>
-<p>Currently, I'm learning Next.js, TailwindCSS and Typescript</p> 
 <p><a href='https://www.linkedin.com/in/szaccagni/'>LinkedIn</a>
 &nbsp;
 &nbsp;
 <a href='https://www.codewars.com/users/sarza'>CodeWars</a> </p>
 <br>
 <h3>Skills</h3>
-<img align="center" src="https://skillicons.dev/icons?i=js,html,css,react,express,mongodb,nodejs">
+<img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs,react,express,nodejs">
 <br><br>
-<img align="center" src="https://skillicons.dev/icons?i=py,django,flask,git,github,heroku,postgres">
+<img align="center" src="https://skillicons.dev/icons?i=py,django,flask,git,github,heroku,postgres,mongodb">
 <br><br>
 <br>
 <h3>GitHub Stats</h3>
